@@ -1,8 +1,3 @@
-# Analog-Input-and-Output-Sub-systems
-Here is a `README.md` file based on the content of the provided document:
-
----
-
 # Microcontroller Sub-systems Implementation
 
 This project demonstrates the implementation of three sub-systems of a microcontroller: Analog Input, Analog Output, and Data Communication. The combined program reads input from a potentiometer, controls the brightness of an LED based on the input value, and prints the sensor and brightness values to the Serial Monitor.
@@ -21,7 +16,7 @@ This project demonstrates the implementation of three sub-systems of a microcont
 
 ## Overview
 
-In this lab exercise, we developed a program that integrates three sub-systems of a microcontroller. The program reads the input from a potentiometer connected to the analog input pin A0 and controls the brightness of an LED connected to pin 9 based on the input value. Additionally, it prints the sensor and brightness values to the Serial Monitor.
+In this repo, we developed a program that integrates three sub-systems of a microcontroller. The program reads the input from a potentiometer connected to the analog input pin A0 and controls the brightness of an LED connected to pin 9 based on the input value. Additionally, it prints the sensor and brightness values to the Serial Monitor.
 
 ## Sub-systems
 
@@ -97,7 +92,6 @@ void loop() {
 ## Software Requirements
 
 - Arduino IDE
+- TinkerCAD
 
 ---
-
-This `README.md` file provides a detailed overview of the project, including descriptions of the sub-systems, code implementation, and setup instructions.
